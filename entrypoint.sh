@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #MAINTAINER kebyn <kebyn@sina.com> 
 # 
 
